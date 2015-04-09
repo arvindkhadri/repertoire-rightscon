@@ -27,22 +27,22 @@ defend the digital and or Internet rights. As the event had people representing
 organizations across the world, it provided an opportunity to network and
 collaborate and also to meet friends and discuss future plans with them.
 It was a humbling experience to meet Mr. Luca Belli from ISOC and being offered a
-chance to speak at the IGF(Internet Governance Forum) about the work we are
+chance to speak at the IGF (Internet Governance Forum) about the work we are
 doing with community networks for nomadic shepherds spread across the south central
 region of India.
 
-Meeting a representative from ORF(Observer Research Foundation) has presented a
-new opportunity to continue working on Alipi for bringing legal documents to
-common parlance. Alipi is a tool built by us to re-narrate web pages.
-Meeting friends from New America foundation has always been a pleasure. New
-America foundation provides funds for building community networks independent
-from the infrastructure provided by the telcos. We are trying to build a
-community network in a remote location, approx, 80 Kilometers away from the city
-of Bangalore and 3 Kilometers away from the town of Tumkur.
-I also got a chance to meet the CEO of the project called Endaga. Endaga
-assists in setting up a community owned cellular network. We are thinking of
-collaborating with them to setup a network at the above mentioned site of the
-mesh network and also for providing connectivity to nomadic shepherds.
+Meeting a representative from ORF (Observer Research Foundation) has presented
+a new opportunity to continue working on Alipi for bringing legal documents to
+common parlance. Alipi is a tool built by us to re-narrate web pages.  Meeting
+friends from New America foundation has always been a pleasure. New America
+foundation provides funds for building community networks that can be
+independent from the infrastructure provided by the telcos. We are trying to
+build a community network in a remote location, approx. 80 Kilometers away from
+the city of Bangalore and 8 Kilometers away from the town of Tumkur.  I also
+got a chance to meet the CEO of the project called Endaga. Endaga assists in
+setting up a community owned cellular network. We are thinking of collaborating
+with them to setup a network at the above mentioned site of the mesh network
+and also for providing connectivity to nomadic shepherds.
 
 The talk by the members of Internet Jurisdiction project about having a
 transparent process for governments to have for accessing trans-national data
@@ -53,7 +53,7 @@ continuation of another talk, "Localized data, global impact". This talk dealt
 with issues of allowing governments to have a say on where a corporation can
 keep the data of the users of that particular nationality in the light of being
 able to have a say on accessing user information. Localizing
-data would lead to have political borders to be mapped on the Internet and
+data would lead to having political borders to be mapped on the Internet and
 would defeat the ideology of having a open medium for people to
 communicate. Data localization also has a impact on the cost of the services,
 if a small time service provider like say Meerkat had to have office in every
@@ -77,8 +77,8 @@ to our organization. Collaboration with them is being thought up on.
 
 There were some people with whom I could not network due to the lack of
 time. One of them being a representative from Mozilla. It would be certainly a
-formidable opportunity to present the work on social semantic web to Mozilla
-folks as it very much overlaps with the open web ideology they promote and we
+great opportunity to present the work on social semantic web to Mozilla
+folks as it overlaps with the open web ideology they promote and we
 believe that the browser is the best medium to take forward the advancement of
 web technologies for people to enjoy and benefit from.
 
