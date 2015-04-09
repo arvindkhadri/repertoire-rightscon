@@ -1,0 +1,89 @@
+#+TITLE: Repertoire at RightsCon, Manila
+#+OPTIONS: toc:3
+#+TOC: listings
+#+AUTHOR: Arvind Khadri
+#+EMAIL: arvind@servelots.com
+
+* Sessions attended
+** Day 1
+*** Not too inaccessible for Broadband: DEF
+*** Asia chats
+*** Localized data, global impacts
+*** Lightning talks
+*** Creating a network of trainer storytellers
+
+** Day 2
+*** Establishing due process and transparency for cross border requests
+*** Brave GNU World
+*** Lightning talks
+
+* Summary
+The conference started with the screening of Citizen Four movie, followed by
+question and answers round by Jacob Applebaum.
+
+The event provided a great opportunity for people from various walks of life to
+have a understanding of the policy and technical challenges being faced to
+defend the digital and or Internet rights. As the event had people representing
+organizations across the world, it provided an opportunity to network and
+collaborate and also to meet friends and discuss future plans with them.
+It was a humbling experience to meet Mr. Luca Belli from ISOC and being offered a
+chance to speak at the IGF(Internet Governance Forum) about the work we are
+doing with community networks for nomadic shepherds spread across the south central
+region of India.
+
+Meeting a representative from ORF(Observer Research Foundation) has presented a
+new opportunity to continue working on Alipi for bringing legal documents to
+common parlance. Alipi is a tool built by us to re-narrate web pages.
+Meeting friends from New America foundation has always been a pleasure. New
+America foundation provides funds for building community networks independent
+from the infrastructure provided by the telcos. We are trying to build a
+community network in a remote location, approx, 80 Kilometers away from the city
+of Bangalore and 3 Kilometers away from the town of Tumkur.
+I also got a chance to meet the CEO of the project called Endaga. Endaga
+assists in setting up a community owned cellular network. We are thinking of
+collaborating with them to setup a network at the above mentioned site of the
+mesh network and also for providing connectivity to nomadic shepherds.
+
+The talk by the members of Internet Jurisdiction project about having a
+transparent process for governments to have for accessing trans-national data
+was a very thought provoking one. The take backs from the talk are ideas on how
+to take forward the dialogue to the policy makers of various nations and how
+technology might be able to assist in doing this. This talk was a kind of
+continuation of another talk, "Localized data, global impact". This talk dealt
+with issues of allowing governments to have a say on where a corporation can
+keep the data of the users of that particular nationality in the light of being
+able to have a say on accessing user information. Localizing
+data would lead to have political borders to be mapped on the Internet and
+would defeat the ideology of having a open medium for people to
+communicate. Data localization also has a impact on the cost of the services,
+if a small time service provider like say Meerkat had to have office in every
+country of the world to be operated then it will have to generate so much of
+revenue in the first place to sustain itself.  This clearly does not promote
+any fair competition in the market of internet based services. An interesting
+way to overcome the challenge is to think of decentralized services, which
+means that the user has the complete freedom of hosting his/her data at a place
+where he/she wishes to and can connect to the service seamlessly.
+
+Folks from Small World News had a session on creating a network of trainer
+storytellers. The talk focused on their mobile application called
+storymaker. The application focuses on training trainers through
+storytelling. One can create stories to train someone about anything under the
+sun using the application. The application, by Small World News, is of certain
+interest to us as we are also building an application to assist people to build
+creative visual stories using artifacts from the web.
+
+Meedan is another interesting organization who seem to be doing things similar
+to our organization. Collaboration with them is being thought up on.
+
+There were some people with whom I could not network due to the lack of
+time. One of them being a representative from Mozilla. It would be certainly a
+formidable opportunity to present the work on social semantic web to Mozilla
+folks as it very much overlaps with the open web ideology they promote and we
+believe that the browser is the best medium to take forward the advancement of
+web technologies for people to enjoy and benefit from.
+
+All in all it was a great opportunity to collaborate, network and also understand
+challenges of various people and organizations.
+
+Thanks ISIF for providing me an opportunity to attend the conference, I
+definitely look forward for the RightsCon at Silicon Valley.
