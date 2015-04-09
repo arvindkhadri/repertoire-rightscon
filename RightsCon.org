@@ -1,4 +1,4 @@
-#+TITLE: Repertoire at RightsCon, Manila
+#+TITLE: Report of RightsCon, Manila
 #+OPTIONS: toc:3
 #+TOC: listings
 #+AUTHOR: Arvind Khadri
@@ -8,7 +8,7 @@
 ** Day 1
 *** Not too inaccessible for Broadband: DEF
 *** Asia chats
-*** Localized data, global impacts
+*** Localized data, global impacts: A tech/policy rising debate
 *** Lightning talks
 *** Creating a network of trainer storytellers
 
@@ -16,6 +16,7 @@
 *** Establishing due process and transparency for cross border requests
 *** Brave GNU World
 *** Lightning talks
+
 
 * Summary
 The conference started with the screening of Citizen Four movie, followed by
