@@ -33,9 +33,10 @@ region of India.
 
 Meeting a representative from ORF (Observer Research Foundation) has presented
 a new opportunity to continue working on Alipi for bringing legal documents to
-common parlance. Alipi is a tool built by us to re-narrate web pages.  Meeting
-friends from New America foundation has always been a pleasure. New America
-foundation provides funds for building community networks that can be
+common parlance. Alipi is a tool built by us to re-narrate web pages.
+
+Meeting friends from New America Foundation has always been a pleasure. New
+America Foundation provides funds for building community networks that can be
 independent from the infrastructure provided by the telcos. We are trying to
 build a community network in a remote location, approx. 80 Kilometers away from
 the city of Bangalore and 8 Kilometers away from the town of Tumkur.  I also
